@@ -1,0 +1,5 @@
+.terraform/modules/
+ignore-me/
+.terraform/
+terraform.tfvars
+terraform.tfstate.backup
